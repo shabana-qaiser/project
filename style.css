@@ -1,0 +1,81 @@
+.logo{
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+    height: 50px;
+    width: 200px;
+}
+.navbar{
+    background-color: lawngreen !important;
+    height: 52px;
+    position: sticky;
+}
+.navbar-nav ml-auto{
+    margin-left: 1500px !important;
+    padding-left: 500px !important;
+}
+.nav-link{
+    color: black !important;
+    display: inline-block !important;
+    font-weight: bold !important;
+    padding-left: 5px !important;
+    text-decoration: none !important;
+    margin-left: 0px !important;
+}
+.fa-video-camera, .fa-user-circle-o{
+    font-size: 32px !important;
+}
+.fa-unlock-alt, .fa-user{
+    font-size: 32px !important;
+}
+.col4{
+    display: inline-block;
+    margin-left: 100px;
+}
+.col mb-4{
+    height: 800px !important;
+}
+.rgstr{
+    background-color: lawngreen;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.box{
+    box-shadow: black;
+    box-sizing:100px;
+    margin-left: 40px;
+    margin-top: 5px;   
+}
+.btn-warning, .btn{
+    margin-top: 20px;
+    background-color: lawngreen;
+    color: black; 
+}
+.register{
+    text-decoration: none;
+    border: lawngreen;
+    border-radius: 10px;
+}
+.footer{
+    background-color: lawngreen;
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px ;
+}
+.footer bottom{
+    padding-left: 200px;
+    padding-right: 300px;
+    font-weight: bold;
+    text-align: center;
+}
+.lawn{
+    border-bottom: 2px solid black; ;    
+}
+.copy{
+    padding-left: 30px;
+    font-size: large;
+}
